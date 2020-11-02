@@ -11,5 +11,10 @@ namespace Vsite.Pood.TeamCitiTest
         public static double Suqared(double x) {
             return x * x;
         }
+
+        public static long Suqared(int x)
+        {
+            return x * x;
+        }
     }
 }
